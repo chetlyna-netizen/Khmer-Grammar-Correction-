@@ -1,2 +1,6 @@
 python-telegram-bot
 google-genai
+flask
+requests
+google-generativeai
+gunicorn
